@@ -1,0 +1,11 @@
+<theme>
+    <name>darkfus</name>
+    <skinType>1</skinType>
+    <description>Un theme sombre et jaune</description>
+    <previewUri>darkStonePreview.jpg</previewUri>
+	<author>Tastywaffle</author>
+    <version>1.0.0</version>
+    <dofusVersion>2.60</dofusVersion> 
+    <creationDate>16/06/2021</creationDate> 
+    <modificationDate>23/06/2021</modificationDate>
+</theme>
