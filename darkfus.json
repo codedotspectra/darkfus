@@ -2,12 +2,12 @@
     {
         "author": "Tastywaffle",
         "name": "darkfus",
-        "keyWords": "dark, jaune",
-        "version": "1.1.1",
+        "keyWords": "dark, vert, green, sombre",
+        "version": "1.1.11",
         "dofusVersion": "2.60",
-        "description": "Un theme sombre et jaune",
+        "description": "Un theme noir et vert",
         "url": "https://codedotspectra.github.io/darkfus/darkfus.zip",
-        "previewUrl": "https://codedotspectra.github.io/darkfus/preview.jpg",
+        "previewUrl": "https://codedotspectra.github.io/darkfus/darkfus.png",
         "creationDate": "16/06/2021",
         "modificationDate": "11/07/2021"
     }
