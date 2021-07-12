@@ -1,25 +1,13 @@
 [
     {
         "author": "Tastywaffle",
-        "name": "darkfus",
-        "keyWords": "dark, bleu, blue, sombre",
-        "version": "1.1.12",
-        "dofusVersion": "2.60",
-        "description": "Un theme noir et bleu",
-        "url": "https://codedotspectra.github.io/darkfus/darkfus.zip",
-        "previewUrl": "https://codedotspectra.github.io/darkfus/darkfus.png",
-        "creationDate": "16/06/2021",
-        "modificationDate": "11/07/2021"
-    },
-    {
-        "author": "Tastywaffle",
-        "name": "Modernui",
+        "name": "Darkfus",
         "keyWords": "dark, sombre, moderne, modern, yellow, jaune, orange, rouge",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "dofusVersion": "2.60",
         "description": "Un theme moderne, sombre et jaune",
-        "url": "https://codedotspectra.github.io/darkfus/modernui.zip",
-        "previewUrl": "https://codedotspectra.github.io/darkfus/modern.png",
+        "url": "https://codedotspectra.github.io/darkfus/Darkfus.zip",
+        "previewUrl": "https://codedotspectra.github.io/darkfus/preview.png",
         "creationDate": "16/06/2021",
         "modificationDate": "12/07/2021"
     }
