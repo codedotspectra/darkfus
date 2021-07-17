@@ -10,5 +10,17 @@
         "previewUrl": "https://codedotspectra.github.io/darkfus/preview.png",
         "creationDate": "16/06/2021",
         "modificationDate": "17/07/2021"
+    },
+    {
+        "author": "Tastywaffle",
+        "name": "DarkfusBlue",
+        "keyWords": "dark, sombre, moderne, modern, blue, bleu, violet, purple",
+        "version": "1.1.2",
+        "dofusVersion": "2.60",
+        "description": "Un theme moderne, sombre et bleu",
+        "url": "https://codedotspectra.github.io/darkfus/darkfusblue.zip",
+        "previewUrl": "https://codedotspectra.github.io/darkfus/preview.png",
+        "creationDate": "17/07/2021",
+        "modificationDate": "17/07/2021"
     }
 ]
