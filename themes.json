@@ -4,12 +4,24 @@
         "author": "Tastywaffle",
         "name": "Primordial",
         "keyWords": "dark, brown, sombre, marron, vert, green",
-        "version": "1.0.11",
+        "version": "1.0.12",
         "dofusVersion": "2.60",
         "description": "Un theme marron sombre",
         "url": "https://codedotspectra.github.io/dofus/primordial.zip",
         "previewUrl": "https://codedotspectra.github.io/dofus/primordialPreview.png",
         "creationDate": "17/07/2021",
-        "modificationDate": "18/07/2021"
+        "modificationDate": "20/07/2021"
+    },
+    {
+        "author": "Tastywaffle",
+        "name": "Darkfus",
+        "keyWords": "dark",
+        "version": "1.0.0",
+        "dofusVersion": "2.60",
+        "description": "Un theme marron sombre",
+        "url": "https://codedotspectra.github.io/dofus/primordial.zip",
+        "previewUrl": "https://codedotspectra.github.io/dofus/primordialPreview.png",
+        "creationDate": "20/07/2021",
+        "modificationDate": "20/07/2021"
     }
 ]
